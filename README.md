@@ -29,13 +29,15 @@ This dataset consists of __2012 images__ belonging to two classes:
 ![](https://github.com/SubashGupta/Covid19-FaceMaskDetector/blob/main/Docs/multiplemasksgithubop.PNG) ![](https://github.com/SubashGupta/Covid19-FaceMaskDetector/blob/main/Docs/nomaskgithubop.PNG)
 
 
+#### Video:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Live Demo](https://github.com/SubashGupta/Covid19-FaceMaskDetector/blob/main/Docs/gitttt.gif)
+
+
+
 
 ***** IF YOU FIND ANY PROBLEMS RELATED TO THIS CODE FILES, FEEL FREE TO CONTACT ME *****
 
 ***** LEAVE A COMMENT IF YOU LOVED MY WORK *****
 
 THANK YOU FOR VIEWING AND DOWNLOADING :)
-
-#### Video:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Live Demo](https://github.com/SubashGupta/Covid19-FaceMaskDetector/blob/main/Docs/gitttt.gif)
